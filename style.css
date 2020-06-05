@@ -1,13 +1,17 @@
 h1 {
-	margin: 0;
+    margin: 0;
 }
 
 body {
-	background: silver url(picture.jpg);
-	margin:0;
+    background: silver url(picture.jpg);
+    margin:0;
+}
+
+#parent{
+    width:100%
 }
 
 #child {
-	margin-left: auto;
-	margin-right:auto;
+    margin-left: auto;
+    margin-right:auto;
 }
