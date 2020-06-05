@@ -7,10 +7,6 @@ body {
 	margin:0;
 }
 
-#parent {
-	width: 200px;
-}
-
 #child {
 	margin-left: auto;
 	margin-right:auto;
