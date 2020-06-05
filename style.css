@@ -10,3 +10,7 @@ body {
 #parent{
     width:100%
 }
+
+#child{
+    margin-left:auto;
+}
