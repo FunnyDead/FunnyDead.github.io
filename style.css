@@ -14,5 +14,6 @@ body {
 }
 
 #child {
-	margin-left: 10px;
+	margin-left: auto;
+	margin-right:auto;
 }
